@@ -1,4 +1,4 @@
- **#Social Media Do’s**
+ **# Social Media Do’s #**
  
 1.Use strong and unique passwords 
 
@@ -24,7 +24,7 @@
 
  
 
- **#Social Media Don’t**
+ **# Social Media Don’t #**
  
 1.Don’t share personal or sensitive information 
 
