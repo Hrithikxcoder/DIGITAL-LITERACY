@@ -38,7 +38,10 @@ include financial loss, identity theft, and emotional stress. In
 some cases, victims may also face difficulty recovering funds 
 
 or securing their accounts.
-This case highlights the importance of verifying email sources, 
+
+This case highlights the importance of verifying email sources,
+
 avoiding suspicious links, and never sharing confidential 
+
 information like OTPs or passwords online.
 
