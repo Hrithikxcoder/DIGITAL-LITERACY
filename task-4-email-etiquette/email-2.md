@@ -6,9 +6,7 @@ I hope this email finds you well. I am writing to express my interest in applyin
 
 I am currently a first-year B.Tech student at VIT Bhopal University, pursuing my studies in engineering. I have a strong interest in technology and programming, and I am actively working on developing my technical and problem-solving skills.
 
-I am eager to gain practical exposure and learn how industry-level projects are handled.
-
-An internship at your organization would provide me with valuable experience and an opportunity to enhance my knowledge while contributing positively to your team.
+I am eager to gain practical exposure and learn how industry-level projects are handled.An internship at your organization would provide me with valuable experience and an opportunity to enhance my knowledge while contributing positively to your team.
 
 I am highly motivated, willing to learn, and ready to take on new challenges.
 
