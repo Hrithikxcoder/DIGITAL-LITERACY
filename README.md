@@ -3,11 +3,11 @@
 
 **👨‍🎓 Student Details**
 
-Name: Pushkar Raj
+Name: HRITHIK ROSHAN
 
-Registration Number: 25BAI11340
+Registration Number: 25BCY10209
 
-Branch: B.Tech CSE AIML
+Branch: B.Tech CSE CYBER
 
 Year: 1st Year
 
@@ -68,4 +68,4 @@ Improved understanding of digital tools and platforms
 Learned safe and responsible internet usage
 Developed professional communication skills
 Built an online portfolio for future opportunities
-If you want, I can also customize it with your branch, add badges, or make it more attractive (with emojis + formatting for higher marks) 👍
+
